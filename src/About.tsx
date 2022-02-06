@@ -72,8 +72,7 @@ export function About() {
       />
       <p>
         Report issues{" "}
-        <a href="https://github.com/kottugumada">here</a>, or tweet{" "}
-        <a href="https://twitter.com/chordbug">@chordbug</a>.
+        <a href="https://github.com/Kottugumada/guessTheName/issues">here</a>
       </p>
       <p>
         This game will be free and ad-free forever,
