@@ -74,12 +74,6 @@ export function About() {
         Report issues{" "}
         <a href="https://github.com/Kottugumada/guessTheName/issues">here</a>
       </p>
-      <p>
-        This game will be free and ad-free forever,
-        <br />
-        but you can <a href="https://ko-fi.com/chordbug">buy me a coffee</a> if
-        you'd like.
-      </p>
     </div>
   );
 }
